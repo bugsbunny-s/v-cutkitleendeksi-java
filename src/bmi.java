@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class bmi {
     public static void main(String[] args){
-        double boy,kilo,bmi,ideal;
+        double boy,kilo,bmi;
 
         Scanner inp = new Scanner(System.in);
         System.out.print("Lütfen boyunuzu giriniz : ");
@@ -32,4 +32,3 @@ public class bmi {
             System.out.println("Obezsiniz ");
         }
         */
-  
